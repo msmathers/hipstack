@@ -42,7 +42,10 @@ To run the server with Google user authentication enabled, create [Google OAuth2
 ```
 GOOGLE_CLIENT_ID=<...> GOOGLE_CLIENT_SECRET=<...> npm start
 ```
-
+In your browser, go to
+```
+http://localhost:8999
+```
 ## How-To
 
 ### Add third-party browser library
