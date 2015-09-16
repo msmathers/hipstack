@@ -1,0 +1,22 @@
+/* Custom application styles */
+
+$light-gray: #999;
+
+footer {
+  padding: 50px;
+
+  p {
+    color: $light-gray;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .fa {
+    font-size: 28px;
+  }
+}
+
+.user-authentication-disabled {
+  text-align: left;
+  font-size: 14px;
+}

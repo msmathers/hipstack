@@ -1,0 +1,15 @@
+# General
+.DS_Store
+npm-debug.log*
+
+# Build artifacts
+bower_components/
+node_modules/
+
+# Static assets
+static/
+lib/
+
+# pyenv
+.python-version
+*.sublime-*

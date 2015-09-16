@@ -1,0 +1,14 @@
+{
+  "name": "hipstack",
+  "version": "0.0.1",
+  "description": "Starter kit for building modern web applications.",
+  "private": true,
+  "dependencies": {
+    "axios": "~0.5.4",
+    "bootstrap": "~4.0.0",
+    "font-awesome": "~4.4.0",
+    "lodash": "~3.10.0",
+    "react": "~0.13.3",
+    "react-router": "~0.13.3"
+  }
+}
